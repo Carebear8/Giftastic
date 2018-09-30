@@ -1,0 +1,50 @@
+* {
+  box-sizing: border-box;
+}
+
+img {
+  margin: 20px;
+}
+
+body {
+  background: url("../assets/images/background\ 4.png") fixed center no-repeat;
+}
+
+form {
+  float: right;
+  width: 30%;
+  padding: 20px; 
+  margin: right; 
+}
+
+h1 {
+  color: white !important;
+  font-size: 25px;  
+} 
+
+.rating {
+   
+}
+
+.gif-wrapper {
+  display: flex;
+  width: 33.33%; 
+  height: 200px; 
+  justify-content: space-evenly; 
+  flex-direction: column;
+  text-align: center;
+
+}
+
+#wrapper {
+  display: flex; 
+  justify-content: space-evenly;
+  flex-flow: row wrap; 
+}
+
+p {
+  text-align: center;
+  margin: 0 auto; 
+  width: 300px;
+
+}
